@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Hi, I'm Naman Srivastava 
 
 <!--
 **namansri24113-hash/namansri24113-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
