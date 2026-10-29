@@ -1,5 +1,5 @@
 ## 👋Hi, I'm Naman Srivastava
-A BBA graduate and PGDM student interested in Marketing Analytics, Business strategy and Consumer Insights Analysis.
+📊A BBA graduate and PGDM student interested in Marketing Analytics, Business strategy and Consumer Insights Analysis.
 
 I'm interested in exploring how business strategy, technology, and Artificial Intelligence can work together to solve real-world challenges. I enjoy learning new skills, exploring innovative ideas, and understanding how data can support smarter business decisions.
 
